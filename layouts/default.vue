@@ -16,7 +16,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 main {
   padding: 0px 100px 0px 100px;
 }
